@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-
+import React from 'react';
+import './ninjas.css'
 
 const Ninjas = ({ ninjas, deleteNinja }) => {
     console.log(ninjas)
